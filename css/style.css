@@ -216,7 +216,8 @@ footer{
 /* utility classes */
 .h-primery {
     font-size: 2.6rem;
-    padding: 20px;
+    padding: 3px;
+    background-color: rgba(127, 255, 212, 0.288);
     font-family: 'Bree Serif', serif;
     margin-top: 12px;
     /* margin-bottom: 15px; */
